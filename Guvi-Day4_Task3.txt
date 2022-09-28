@@ -30,7 +30,6 @@ request.onload=function() {
     // for loop
 
     for(i=0;i<data.length;i++) {
-      console.log(data[i].name)
       console.log(data[i].name.common)
       console.log(data[i].capital)
       console.log(data[i].region)
